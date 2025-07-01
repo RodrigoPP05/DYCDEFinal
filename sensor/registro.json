@@ -46,5 +46,17 @@
     "presion": "832.79 hPa",
     "gas": "55.15 KΩ",
     "humedad_suelo": "38.0 %"
+  },
+  {
+    "timestamp": "2025-07-01T03:50:21.815Z",
+    "rele": "0",
+    "rele1": "0",
+    "rele12": "0",
+    "rele2": "0",
+    "temp_DS18": "25.69 °C",
+    "humedad": "70.40 %",
+    "presion": "832.79 hPa",
+    "gas": "55.44 KΩ",
+    "humedad_suelo": "17.0 %"
   }
 ]
