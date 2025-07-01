@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Proyecto.PrjPcb]
+   Generated File[Proyecto.TXT]
+   Generated File[Proyecto-RectHoles.TXT]
+   Generated File[Proyecto.LDP]
+   Generated File[Proyecto.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:43:14 On 10/06/2025
