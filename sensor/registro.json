@@ -2010,5 +2010,18 @@
     "gas": "71.53 KΩ",
     "humedad_suelo": "100.0 %",
     "estado": "Apagado"
+  },
+  {
+    "timestamp": "01/07/2025, 09:44:12",
+    "rele": "0",
+    "rele1": "0",
+    "rele12": "0",
+    "rele2": "0",
+    "temp_DS18": "25.25 °C",
+    "humedad": "66.13 %",
+    "presion": "859.55 hPa",
+    "gas": "73.59 KΩ",
+    "humedad_suelo": "100.0 %",
+    "estado": "Apagado"
   }
 ]
