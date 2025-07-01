@@ -7,8 +7,7 @@ Este proyecto desarrollado en el curso Diseño y Construcción de Dispositivos E
 
 - Temperatura y humedad ambiental (BME680)
 - Humedad del suelo (sensor capacitivo)
-- Concentración de gases (MQ-135 / BME680)
-- Nivel de agua (flotador)
+- Bomba de agua (Relé)
 - Tensión de alimentación (ZMPT101B)
 
 Además, controla automáticamente una bomba, ventilador y lámpara LED mediante relés. Los datos son publicados vía MQTT y pueden visualizarse en dashboards interactivos de Node-RED. También se envían alertas al usuario mediante Telegram.
