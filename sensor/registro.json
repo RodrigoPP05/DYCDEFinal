@@ -502,5 +502,18 @@
     "gas": "62.63 KΩ",
     "humedad_suelo": "100.0 %",
     "estado": "Apagado"
+  },
+  {
+    "timestamp": "2025-07-01T08:15:02.142Z",
+    "rele": "0",
+    "rele1": "0",
+    "rele12": "0",
+    "rele2": "0",
+    "temp_DS18": "24.87 °C",
+    "humedad": "69.44 %",
+    "presion": "831.81 hPa",
+    "gas": "62.86 KΩ",
+    "humedad_suelo": "65.0 %",
+    "estado": "Apagado"
   }
 ]
