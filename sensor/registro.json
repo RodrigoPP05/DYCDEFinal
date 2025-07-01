@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-07-01T03:44:41.864Z",
+  "timestamp": "2025-07-01T03:45:11.872Z",
   "rele": "0",
   "rele1": "0",
   "rele12": "0",
   "rele2": "0",
   "temp_DS18": "25.69 °C",
-  "humedad": "67.10 %",
+  "humedad": "67.13 %",
   "presion": "832.75 hPa",
-  "gas": "54.19 KΩ",
-  "humedad_suelo": "9.0 %"
+  "gas": "53.67 KΩ",
+  "humedad_suelo": "24.0 %"
 }
