@@ -1,12 +1,14 @@
-{
-  "timestamp": "2025-07-01T03:47:11.912Z",
-  "rele": "0",
-  "rele1": "0",
-  "rele12": "0",
-  "rele2": "0",
-  "temp_DS18": "25.69 °C",
-  "humedad": "67.84 %",
-  "presion": "832.74 hPa",
-  "gas": "55.92 KΩ",
-  "humedad_suelo": "44.0 %"
-}
+[
+  {
+    "timestamp": "2025-07-01T03:48:21.796Z",
+    "rele": "0",
+    "rele1": "0",
+    "rele12": "0",
+    "rele2": "0",
+    "temp_DS18": "25.69 °C",
+    "humedad": "69.49 %",
+    "presion": "832.76 hPa",
+    "gas": "55.74 KΩ",
+    "humedad_suelo": "65.0 %"
+  }
+]
