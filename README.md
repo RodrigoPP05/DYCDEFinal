@@ -6,7 +6,7 @@ Los datos se visualizan en tiempo real desde cualquier dispositivo móvil median
 
 - Temperatura y humedad ambiental (BME680)
 - Humedad del suelo (sensor capacitivo)
-- Concentración de gases (MQ-135 / BME680)
+- Concentración de gases (BME680)
 - Nivel de agua (flotador)
 - Tensión de alimentación (ZMPT101B)
 
